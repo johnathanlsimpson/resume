@@ -55,8 +55,7 @@ Web developer and designer specializing in PHP and SQL.
 ---
 
 ## Technologies
-
-HTML5, CSS3, JavaScript (ES6), jQuery, PHP, SQL, VBA, SVG, Git
+HTML5, CSS3, JavaScript (ES6), jQuery, PHP, SQL, VBA, SVG, Git, Markdown
 
 ## Software
 Excel, Word, Photoshop, Illustrator
@@ -69,6 +68,6 @@ B.S., Biology (‘08 - ‘12)
 James Madison University
 
 ## References
-Bonnie Tang, Supervisor, 540-416-3777
-Bruce Hoard, Manager, 540-280-9585
-Tim Reasoner, Supervisor, 540-470-8190
+* Bonnie Tang, Supervisor, 540-416-3777
+* Bruce Hoard, Manager, 540-280-9585
+* Tim Reasoner, Supervisor, 540-470-8190
