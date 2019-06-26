@@ -5,6 +5,7 @@ Web developer and designer specializing in PHP and SQL.
 * Phone: 1-434-401-8831
 * Email: johnathan.l.simpson@gmail.com
 * Portfolio: [JohnSimpson.dev](https://johnsimpson.dev/)
+* PDF: [JohnSimpson.dev/resume.pdf](https://johnsimpson.dev/resume.pdf)
 
 ---
 
@@ -13,8 +14,8 @@ Web developer and designer specializing in PHP and SQL.
 ### Lead Developer, Designer, Community Manager, *vk.gy*
 2014 - PRESENT
 * Founder and lead developer for community-run repository of band information.
-* Developed custom-purpose, bi-lingual CMS powered by PHP7 and SQL.
-* Designed and developed frontend using HTML5, CSS3, JavaScript ES6, and jQuery.
+* Develop custom-purpose, bi-lingual CMS powered by PHP7 and SQL.
+* Design and develop frontend using HTML5, CSS3, JavaScript ES6, and jQuery.
 * Create custom automation tools with PHP and JavaScript to increase speed and ease of data entry.
 * Use command line/Git for version control and Github for collaboration with co-developer.
 * Continuously re-evaluate code to increase speed, reliability, and accessibility.
@@ -35,7 +36,7 @@ Web developer and designer specializing in PHP and SQL.
 
 # Other Experience
 
-## Lab Department Lead, *Shamrock Foods*
+## Quality Department Lead, *Shamrock Foods*
 2014 - 2019
 * Performed biological, chemical, and physical tests to ensure quality of 200,000 items each day.
 * Predicted, identified, quarantined, and remedied quality issues that could negatively affect public health and safety.
@@ -46,7 +47,7 @@ Web developer and designer specializing in PHP and SQL.
 * Hired and trained all lab staff.
 * Managed lab inventory and ordering.
 * Architected and implemented new lab/plant policies.
-* Spearheaded successful projects to increase legal compliance in documents across plant. Reduced lost product by half through successful hold revisio project.
+* Spearheaded successful projects to increase legal compliance in documents across plant. Reduced lost product by half through successful hold revision project.
 
 ## Manager, *Cook Out*
 2012 - 2014
