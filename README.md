@@ -69,6 +69,7 @@ B.S., Biology (‘08 - ‘12)
 James Madison University
 
 ## References
+* Jennifer Cline, client, 540-649-5570
 * Bonnie Tang, Supervisor, 540-416-3777
 * Bruce Hoard, Manager, 540-280-9585
 * Tim Reasoner, Supervisor, 540-470-8190
