@@ -11,25 +11,32 @@ Web developer and designer specializing in PHP and SQL.
 
 ## Development Experience
 
-### Lead Developer, Designer, Community Manager, *vk.gy*
+### Lead Web Developer, Graphic Designer, *Innovative*
+2019 - PRESENT
+* In-house web developer for industrial refrigeration company.
+* Designs and codes custom Wordpress themes for suite of company-owned properties, using PHP, HTML, JS, and CSS.
+* Designs pamphlets, newsletters, and other company materials, using Photoshop, Illustrator, and InDesign.
+* Acts as Marketing consultant and gives ideas to drive brand growth.
+
+### Lead Developer, Graphic Designer, *vk.gy*
 2014 - PRESENT
 * Founder and lead developer for community-run repository of band information.
-* Develop custom-purpose, bi-lingual CMS powered by PHP7 and SQL.
-* Design and develop frontend using HTML5, CSS3, JavaScript ES6, and jQuery.
-* Create custom automation tools with PHP and JavaScript to increase speed and ease of data entry.
-* Use command line/Git for version control and Github for collaboration with co-developer.
-* Continuously re-evaluate code to increase speed, reliability, and accessibility.
-* Design branding and promotional physical goods (stickers, t-shirts, etc.).
-* Manage community of 500+ and plan online events, including a successful Patreon campaign.
-* Build and maintain professional industry relationships.
+* Develops custom-purpose, bilingual CMS powered by PHP7 and SQL.
+* Designs and develops frontend using HTML5, CSS3, JavaScript ES6, and jQuery.
+* Creates custom automation tools with PHP and JavaScript to increase speed and ease of data entry.
+* Uses command line/Git for version control and Github for collaboration with co-developer.
+* Continuously re-evaluates code to increase speed, reliability, and accessibility.
+* Designs branding and promotional physical goods (stickers, t-shirts, etc.).
+* Manages community of 500+ and plan online events, including a successful Patreon campaign.
+* Builds and maintains professional industry relationships.
 
-## Web Developer and Designer, *Self-Employed*
+## Freelance Web Developer, Graphic Designer, *Self-Employed*
 2008 - PRESENT
-* Develop custom web solutions for clients, mainly using PHP7, SQL, and JavaScript ES6.
-* Design and build custom responsive, mobile-first frontends using HTML5 and CSS3.
-* Actively collaborate with clients to meet their design expectations without sacrificing speed or accessibility.
-* Design logos and promotional materials using Photoshop and Illustrator.
-* Deliver completed products within given timeframes.
+* Develops custom web solutions for clients, mainly using PHP7, SQL, and JavaScript ES6.
+* Designs and builds custom responsive, mobile-first front-ends using HTML5 and CSS3.
+* Actively collaborates with clients to meet their design expectations without sacrificing speed or accessibility.
+* Designs logos and promotional materials using Photoshop, Illustrator, and InDesign.
+* Delivers completed products within given timeframes.
 * See portfolio for recent work: [JohnSimpson.dev](https://johnsimpson.dev/)
 
 ---
@@ -59,7 +66,7 @@ Web developer and designer specializing in PHP and SQL.
 HTML5, CSS3, JavaScript (ES6), jQuery, PHP, SQL, VBA, SVG, Git, Markdown
 
 ## Software
-Excel, Word, Photoshop, Illustrator
+Excel, Word, Photoshop, Illustrator, InDesign
 
 ## Recognition
 Shamrock Stars recognition. Managerial Excellence award. Employee of the Month x6.
@@ -69,7 +76,8 @@ B.S., Biology (‘08 - ‘12)
 James Madison University
 
 ## References
-* Jennifer Cline, client, 540-649-5570
+* Jennifer Cline, Client, 540-649-5570
+* Valerie Strong, Client, 224-427-9404
 * Bonnie Tang, Supervisor, 540-416-3777
 * Bruce Hoard, Manager, 540-280-9585
 * Tim Reasoner, Supervisor, 540-470-8190
