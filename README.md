@@ -6,6 +6,7 @@ Frontend web developer with skills in graphic design and marketing.
 * Email: johnathan.l.simpson@gmail.com
 * Portfolio: [JohnSimpson.dev](https://johnsimpson.dev/)
 * PDF: [JohnSimpson.dev/resume.pdf](https://johnsimpson.dev/resume.pdf)
+* LinkedIn: [linkedin.com/in/john-simpson-b618bb179/](https://www.linkedin.com/in/john-simpson-b618bb179/)
 
 ---
 
