@@ -1,6 +1,6 @@
 # John Simpson
 
-Frontend web developer 
+Frontend web developer with skills in graphic design and marketing.
 
 * Phone: 1-434-401-8831
 * Email: johnathan.l.simpson@gmail.com
