@@ -1,6 +1,6 @@
 # John Simpson
 
-Web developer and designer specializing in PHP and SQL.
+Frontend web developer 
 
 * Phone: 1-434-401-8831
 * Email: johnathan.l.simpson@gmail.com
@@ -11,26 +11,26 @@ Web developer and designer specializing in PHP and SQL.
 
 ## Development Experience
 
-### Lead Web Developer, Graphic Designer, *Innovative*
+### Lead Developer, Designer, Marketer *Innovative*
 2019 - PRESENT
-* In-house web developer for industrial refrigeration company.
-* Designs and codes custom Wordpress themes for suite of company-owned properties, using PHP, HTML, JS, and CSS.
-* Designs pamphlets, newsletters, and other company materials, using Photoshop, Illustrator, and InDesign.
-* Acts as Marketing consultant and gives ideas to drive brand growth.
+* In-house web developer, graphic designer, and marketer for industrial refrigeration company.
+* Designs newsletters, booklets, flyers, social media graphics, and other promotional items, using Photoshop and InDesign.
+* Designs and codes custom WordPress themes for a suite of company-owned properties, using PHP, HTML, JS, and CSS.
+* Collects and analyzes website and social media analytics, and makes evidence-based decisions to increase traffic.
+* Researches and performs SEO on company properties.
+* Writes promotional copy and edits informational blog articles.
 
-### Lead Developer, Graphic Designer, *vk.gy*
+### Lead Developer, Designer, Marketer *vk.gy*
 2014 - PRESENT
-* Founder and lead developer for community-run repository of band information.
-* Develops custom-purpose, bilingual CMS powered by PHP7 and SQL.
-* Designs and develops frontend using HTML5, CSS3, JavaScript ES6, and jQuery.
-* Creates custom automation tools with PHP and JavaScript to increase speed and ease of data entry.
-* Uses command line/Git for version control and Github for collaboration with co-developer.
-* Continuously re-evaluates code to increase speed, reliability, and accessibility.
-* Designs branding and promotional physical goods (stickers, t-shirts, etc.).
-* Manages community of 500+ and plan online events, including a successful Patreon campaign.
-* Builds and maintains professional industry relationships.
+* Founder and lead developer of band information database.
+* Develops and maintains custom CMS powered by PHP and SQL.
+* Designs and develops frontend with HTML, CSS, and JavaScript.
+* Uses principles of UI/UX to increase ease of data entry and reduce errors in data.
+* Uses analytics, search console, and heatmaps to make improvements to SEO.
+* Builds and maintains professional business relationships with companies and artists in the industry.
+* Planned and launched a successful Patreon campaign.
 
-## Freelance Web Developer, Graphic Designer, *Self-Employed*
+## Freelance Web Developer, Graphic Designer *Self-Employed*
 2008 - PRESENT
 * Develops custom web solutions for clients, mainly using PHP7, SQL, and JavaScript ES6.
 * Designs and builds custom responsive, mobile-first front-ends using HTML5 and CSS3.
@@ -56,17 +56,13 @@ Web developer and designer specializing in PHP and SQL.
 * Architected and implemented new lab/plant policies.
 * Spearheaded successful projects to increase legal compliance in documents across plant. Reduced lost product by half through successful hold revision project.
 
-## Manager, *Cook Out*
-2012 - 2014
-* Scheduled, trained, and managed staff. Worked in fast-paced, stressful environment, and successfully managed competing needs of safety, quality, efficiency, and speed. Handled money and deposits, and created and implemented new training policies and paperwork.
-
 ---
 
 ## Technologies
-HTML5, CSS3, JavaScript (ES6), jQuery, PHP, SQL, VBA, SVG, Git, Markdown
+HTML, CSS, JavaScript, jQuery, PHP, MySQL, WordPress, VBA, SVG, Git, Markdown
 
 ## Software
-Excel, Word, Photoshop, Illustrator, InDesign
+Excel, Word, Photoshop, Illustrator, InDesign, XD
 
 ## Recognition
 Shamrock Stars recognition. Managerial Excellence award. Employee of the Month x6.
@@ -76,8 +72,4 @@ B.S., Biology (‘08 - ‘12)
 James Madison University
 
 ## References
-* Jennifer Cline, Client, 540-649-5570
-* Valerie Strong, Client, 224-427-9404
-* Bonnie Tang, Supervisor, 540-416-3777
-* Bruce Hoard, Manager, 540-280-9585
-* Tim Reasoner, Supervisor, 540-470-8190
+References from clients and former supervisors available upon request.
